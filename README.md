@@ -1,2 +1,2 @@
 # komssa
-un annuiare tout simple !!!
+un annuaire tout simple !!!
