@@ -1,0 +1,248 @@
+<html>
+
+<head>
+
+     <link rel="stylesheet" type="text/css" href="web/css/bootstrap.min.css" />
+     <link rel="stylesheet" type="text/css" href="web/css/animate.css" />
+     <link rel="stylesheet" type="text/css" href="web/font-awesome/css/font-awesome.css" />  
+     <link rel="stylesheet" type="text/css" href="web/css/perso.css" />
+     
+    <title> Votre annuaire tout simple!!! </title>
+
+</head>
+
+
+<body>
+
+    <header id="header">
+
+        <h1 class="logo"> Logo </h1>
+        
+        <div class="pageContent">
+			<div class="container">
+				<ul class="topNavigation">
+					<li>
+						<a href="#" title="#">
+							<i class="fa fa-envelope icon"></i>
+							<span class="badge">6</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#" title="#">
+							<i class="fa fa-globe icon"></i>
+							<span class="badge">98</span>
+						</a>
+					</li>
+					
+					<li>
+						<a href="#" title="#">
+							<i class="fa fa-cog icon"></i>
+						</a>
+					</li>
+					
+					
+				</ul>
+			</div>
+		</div>
+
+    </header>
+    
+    
+    <div class="row">
+        <div class="sidebarleft col-md-3">
+           <div>
+             <a class="photoprofil_a">
+                <img src="http://placehold.it/195x195" />
+             </a>  
+           </div>
+           
+           <nav class="simpleList">
+                <ul>
+                   
+                     <li>
+                        <a href="dashboard.html" title="#">
+                            <i class="fa fa-user icon"></i> 
+                            <span class="hidden-xs hidden-sm">Mon profil</span>
+                        </a>
+                    </li>
+                                       
+                    <li>
+                        <a href="dashboard.html" title="#">
+                            <i class="fa fa-globe icon"></i> 
+                            <span class="hidden-xs hidden-sm">Mes sites</span>
+                        </a>
+                    </li>                    
+                   
+                     <li>
+                        <a href="dashboard.html" title="#">
+                            <i class="fa fa-heart icon"></i> 
+                            <span class="hidden-xs hidden-sm">Mes favoris</span>
+                        </a>
+                    </li>
+                    
+                     <li>
+                        <a href="dashboard.html" title="#">
+                            <i class="fa fa-thumbs-up icon"></i> 
+                            <span class="hidden-xs hidden-sm">interessant</span>
+                        </a>
+                    </li>
+                </ul>
+           </nav>   
+        </div> 
+  
+        <div class="panel_content col-md-10">
+            <div class="card_search  moteur_search">
+                   <form>
+                        <input class="form-control search" name="search" placeholder="Rechercher">
+                   </form>
+            </div>
+            
+             <div class="col-sm-2 panel_card">
+                 <div class="card">
+                    <div class="header_card" style="padding-left:8%;">
+                       <img src="http://placehold.it/140x140" class="img-responsive"/>
+                    </div>
+                   
+                    <div class="body_card">
+                      <a class="title">
+                          bonjour il marche cool bien                        
+                      </a>
+                      
+                      <a class="subtitle">
+                        Molocrop enterprise                        
+                      </a>                        
+                    </div>
+                    
+                     <div class="footer_card">
+                        Rate
+                         <span class="paragraph-end">  </span>
+                    </div>
+                 </div>
+            </div>
+            
+             <div class="col-sm-2 panel_card">
+                 <div class="card">
+                    <div class="header_card" style="padding-left:8%;">
+                       <img src="http://placehold.it/140x140" class="img-responsive"/>
+                    </div>
+                   
+                    <div class="body_card">
+                      <a class="title">
+                          bonjour il marche cool bien                        
+                      </a>
+                      
+                      <a class="subtitle">
+                        Molocrop enterprise                        
+                      </a>                        
+                    </div>
+                    
+                     <div class="footer_card">
+                        Rate
+                         <span class="paragraph-end">  </span>
+                    </div>
+                 </div>
+            </div>
+            
+             <div class="col-sm-2 panel_card">
+                 <div class="card">
+                    <div class="header_card" style="padding-left:8%;">
+                       <img src="http://placehold.it/140x140" class="img-responsive"/>
+                    </div>
+                   
+                    <div class="body_card">
+                      <a class="title">
+                          bonjour il marche cool bien                        
+                      </a>
+                      
+                      <a class="subtitle">
+                        Molocrop enterprise                        
+                      </a>                        
+                    </div>
+                    
+                     <div class="footer_card">
+                        Rate
+                         <span class="paragraph-end">  </span>
+                    </div>
+                 </div>
+            </div>
+            
+           <div class="col-sm-2 panel_card">
+                 <div class="card">
+                    <div class="header_card" style="padding-left:8%;">
+                       <img src="http://placehold.it/140x140" class="img-responsive"/>
+                    </div>
+                   
+                    <div class="body_card">
+                      <a class="title">
+                          bonjour il marche cool bien                        
+                      </a>
+                      
+                      <a class="subtitle">
+                        Molocrop enterprise                        
+                      </a>                        
+                    </div>
+                    
+                     <div class="footer_card">
+                        Rate
+                         <span class="paragraph-end">  </span>
+                    </div>
+                 </div>
+            </div>
+            
+           <div class="col-sm-2 panel_card">
+                 <div class="card">
+                    <div class="header_card" style="padding-left:8%;">
+                       <img src="http://placehold.it/140x140" class="img-responsive"/>
+                    </div>
+                   
+                    <div class="body_card">
+                      <a class="title">
+                          bonjour il marche cool bien                        
+                      </a>
+                      
+                      <a class="subtitle">
+                        Molocrop enterprise                        
+                      </a>                        
+                    </div>
+                    
+                     <div class="footer_card">
+                        Rate
+                         <span class="paragraph-end">  </span>
+                    </div>
+                 </div>
+            </div>
+            
+            <div class="col-sm-2 panel_card">
+                 <div class="card">
+                    <div class="header_card" style="padding-left:8%;">
+                       <img src="http://placehold.it/140x140" class="img-responsive"/>
+                    </div>
+                   
+                    <div class="body_card">
+                      <a class="title">
+                          bonjour il marche cool bien                        
+                      </a>
+                      
+                      <a class="subtitle">
+                        Molocrop enterprise                        
+                      </a>                        
+                    </div>
+                    
+                     <div class="footer_card">
+                        Rate
+                         <span class="paragraph-end">  </span>
+                    </div>
+                 </div>
+            </div>
+        </div> 
+    </div>
+
+</body>
+
+<script src="web/js/jquery.min.js"></script>
+<script src="web/js/bootstrap.min.js"></script>
+
+
+
+</html>
